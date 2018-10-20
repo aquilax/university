@@ -1,2 +1,2 @@
-# university
-List of universities
+# University
+List of universities around the world
